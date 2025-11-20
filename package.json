@@ -1,0 +1,28 @@
+{
+  "name": "1proyecto",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanfdorestrepo/1proyecto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanfdorestrepo/1proyecto/issues"
+  },
+  "homepage": "https://github.com/juanfdorestrepo/1proyecto#readme",
+  "description": "",
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "vite": "^7.2.2"
+  }
+}
